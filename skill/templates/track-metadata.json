@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "track_id": "<TRACK_ID>",
+  "title": "<TITLE>",
+  "status": "planned",
+  "created_at": "<CREATED_AT>",
+  "updated_at": "<CREATED_AT>",
+  "source": "portable-conductor",
+  "compatibility": {
+    "conductor_artifact_layout": 1
+  }
+}
