@@ -55,7 +55,7 @@ Clone the repository once, then run the installer from its root.
 
 ```bash
 git clone https://github.com/CopyPasteFail/portable-conductor.git ~/.local/share/portable-conductor
-~/.local/share/portable-conductor/install.sh --all
+bash ~/.local/share/portable-conductor/install.sh --all
 ```
 
 ### Windows PowerShell
