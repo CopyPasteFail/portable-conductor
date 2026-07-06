@@ -1,0 +1,8 @@
+Portable Conductor
+Copyright 2026 Omer Reznik and contributors
+
+This project is an independent portable rewrite inspired by the Gemini CLI Conductor extension:
+https://github.com/gemini-cli-extensions/conductor
+
+The upstream project is licensed under the Apache License, Version 2.0.
+This project retains attribution for that inspiration. It does not include Gemini CLI extension code, Gemini-specific command wrappers, or Gemini-specific policy files.
