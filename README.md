@@ -111,12 +111,6 @@ The following Gemini-specific mechanisms are intentionally not portable:
 
 The portable protocols replace those mechanisms with explicit confirmation and the host agent's normal approval model.
 
-## Validation
-
-```bash
-python3 tests/test_layout.py
-```
-
 ## License and attribution
 
 This project is an independent, portable rewrite inspired by the workflow and project artifacts of [gemini-cli-extensions/conductor](https://github.com/gemini-cli-extensions/conductor), which is licensed under Apache License 2.0.
